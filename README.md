@@ -222,23 +222,25 @@ A task management application for organizing, managing and tracking daily activi
   </a>
 </p>
 
-<h2 align="center">🌐 CONTRIBUTION ACTIVITY</h2>
-
-<p align="center">
-  <a href="https://github.com/munikumar19">
-    <img width="95%"
-      src="https://ghstats.dev/api/sparkline?username=munikumar19&days=30&width=700&height=180&line_color=0072FF&fill_color=00B4DB"
-      alt="GitHub Activity Sparkline" />
-  </a>
-</p>
----
-
-<!-- CONTRIBUTION GRAPH -->
 
 <h2 align="center">🌐 CONTRIBUTION ACTIVITY</h2>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=munikumar19&bg_color=ffffff&color=0072FF&line=00B4DB&point=1D976C&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Graph" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/munikumar19/munikumar19/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/munikumar19/munikumar19/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/munikumar19/munikumar19/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    />
+  </picture>
 </p>
 
 ---

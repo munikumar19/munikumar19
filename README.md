@@ -1,105 +1,99 @@
-<!-- ANIMATED HEADER -->
+<!-- PROFILE BANNER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0072FF,50:00B4DB,100:1D976C&text=K.%20Muni%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Python%20Full-Stack%20Developer%20%7C%20Data%20Science%20Graduate&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:063B5C,35:075985,70:087E8B,100:22B8CF&text=K.%20Muni%20Kumar&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Python%20Full-Stack%20Developer%20%7C%20Hyderabad%2C%20India&descSize=18&descAlignY=61&animation=fadeIn"
+    width="100%"
+    alt="K. Muni Kumar - Python Full-Stack Developer - Hyderabad, India"
+  />
 </p>
-
-<!-- ANIMATED TYPING INTRODUCTION -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=00B4DB&center=true&vCenter=true&width=800&lines=Python+Full-Stack+Developer;React.js+%7C+Django+%7C+JavaScript;Computer+Science+%26+Engineering+Graduate;Building+Projects+%7C+Solving+Problems;Always+Learning+%7C+Always+Growing" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=900&color=16B8C4&center=true&vCenter=true&width=800&lines=Python+Full-Stack+Developer;React.js+%7C+Django+%7C+JavaScript;CSE+Graduate+%7C+Data+Science;Building+Applications+%7C+Solving+Problems"
+    alt="Animated developer introduction"
+  />
 </p>
-
-<!-- SOCIAL LINKS -->
 
 <p align="center">
   <a href="https://github.com/munikumar19">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-087E8B?style=flat&logo=github&logoColor=white&labelColor=164E63"/>
   </a>
   <a href="https://www.linkedin.com/in/kmunikumar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-087E8B?style=flat&logo=linkedin&logoColor=white&labelColor=164E63"/>
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-00A6A6?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=munikumar19&label=PROFILE%20VIEWS&color=00B4DB&style=for-the-badge" />
 </p>
 
 ---
 
-<!-- ABOUT -->
 
-<h2 align="center">🌟 ABOUT ME</h2>
+<!-- ABOUT SECTION -->
 
-<p align="center">
-  <b>Computer Science and Engineering Graduate | Data Science Specialization</b>
-</p>
+<!-- <h2 align="center">
+  <img src="https://img.shields.io/badge/01%20%7C%20ABOUT-087E8B?style=flat&labelColor=164E63"/>
+</h2> -->
+<h2 align="center">ABOUT ME</h2>
 
-- 🎓 B.Tech graduate specializing in Data Science.
-- 💻 500+ hours of hands-on coding experience.
-- 🐍 Focused on Python Full-Stack Development.
-- ⚛️ Interested in building interactive web applications using React.js.
-- ⚙️ Developing backend applications using Python and Django.
-- 📊 Knowledge of data analysis and visualization using Python libraries.
-- 🧩 Regularly practicing programming and problem-solving.
-- 🎯 Career goal: Contribute to real-world software projects as a Python Full-Stack Developer.
+- 🎓 **Education:** Computer Science and Engineering graduate specializing in Data Science.
+- 💻 **Coding Experience:** 500+ hours of hands-on programming and coding practice.
+- 🐍 **Development Focus:** Python Full-Stack Development using Python, Django, React.js, JavaScript, and SQL.
+- 🌐 **Web Development:** Interested in creating responsive, interactive, and user-friendly web applications.
+- 📊 **Technical Interests:** Data Analytics, Machine Learning, database management, and problem-solving.
+- 🧩 **Strengths:** Logical thinking, analytical skills, teamwork, adaptability, and continuous learning.
+- 🎯 **Career Objective:** Seeking an entry-level Python Full-Stack Developer opportunity to contribute to real-world software projects.
+
 
 ---
 
-<!-- TECH STACK -->
+<!-- TECHNICAL SKILLS -->
 
-<h2 align="center">💻 TECH STACK & TECHNOLOGIES</h2>
+<h2 align="center">🛠️ TECH STACK & TECHNOLOGIES</h2>
 
-<h3 align="center">🚀 Programming Languages</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js&theme=light" />
-</p>
+<h3 align="center">💻 Programming Languages</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-075985?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-087E8B?style=flat&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-0B7185?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-075985?style=flat&logo=mysql&logoColor=white"/>
 </p>
 
 <h3 align="center">🎨 Frontend Development</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react&theme=light" />
+  <img src="https://img.shields.io/badge/HTML5-087E8B?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-075985?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React.js-087E8B?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Hooks-075985?style=flat&logo=react&logoColor=white"/>
 </p>
 
 <h3 align="center">⚙️ Backend Development</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,nodejs,express&theme=light" />
+  <img src="https://img.shields.io/badge/Python-075985?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-087E8B?style=flat&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-075985?style=flat&logo=django&logoColor=white"/>
 </p>
 
 <h3 align="center">🗄️ Database Management</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=light" />
+  <img src="https://img.shields.io/badge/SQLite-075985?style=flat&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-075985?style=flat&logo=mysql&logoColor=white"/>
 </p>
 
-<h3 align="center">📊 Data Science & Analytics</h3>
+
+<h3 align="center">🔧 Development Tools</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-</p>
-
-<h3 align="center">🔧 Tools & Platforms</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter&theme=light" />
+  <img src="https://img.shields.io/badge/VS%20Code-087E8B?style=flat&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-075985?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-087E8B?style=flat&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-<!-- PROJECTS -->
+<!-- FEATURED PROJECTS -->
 
 <h2 align="center">🚀 FEATURED PROJECTS</h2>
 
@@ -107,64 +101,77 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🌍 Travel Trip</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/PROJECT%2001-087E8B?style=flat&labelColor=164E63"/>
+</p>
+
+<h2 align="center">✈️ Travel Trip</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+<b>Multi-Step Travel Booking Application</b>
 </p>
 
 <p align="center">
-A multi-step travel booking application featuring date selection, guest management, travel assistance and booking navigation.
+  <img src="https://img.shields.io/badge/React.js-087E8B?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-087E8B?style=flat&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-075985?style=flat&logo=css3&logoColor=white"/>
 </p>
 
+**Overview**
+
+A multi-step travel booking application featuring an interactive booking flow and organized travel planning.
+
+**Key Features**
+
+- Date selection and travel details.
+- Location and guest management.
+- Travel assistance.
+- Previous and Next navigation.
+- Step completion indicators.
+- Trip summary and confirmation.
+- Cancellation and new-trip functionality.
+
 <p align="center">
-<a href="https://github.com/munikumar19/TravelTripProject">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-0072FF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  <a href="https://github.com/munikumar19/TravelTripProject">
+    <img src="https://img.shields.io/badge/VIEW%20SOURCE-087E8B?style=flat&logo=github&logoColor=white&labelColor=164E63"/>
+  </a>
 </p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3 align="center">⏱️ Pomodoro Timer</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/PROJECT%2002-087E8B?style=flat&labelColor=164E63"/>
+</p>
+
+<h2 align="center">⏱️ Pomodoro Timer</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+<b>Productivity Tracker</b>
 </p>
 
 <p align="center">
-A productivity tracker designed to manage focused work sessions, break intervals and daily productivity.
+  <img src="https://img.shields.io/badge/React.js-087E8B?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-087E8B?style=flat&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-075985?style=flat&logo=css3&logoColor=white"/>
 </p>
 
-<p align="center">
-<b>Repository link to be added</b>
-</p>
+**Overview**
 
-</td>
-</tr>
+A productivity application designed to manage focused work sessions and breaks using customizable timers.
 
-<tr>
-<td colspan="2" valign="top">
+**Key Features**
 
-<h3 align="center">✅ Smart To-Do List Application</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
-</p>
+- Customizable work sessions.
+- Break management.
+- Automatic session switching.
+- Notifications and sound alerts.
+- LocalStorage for user preferences.
+- Persistent productivity settings.
 
 <p align="center">
-A task management application for organizing, managing and tracking daily activities.
-</p>
-
-<p align="center">
-<b>Repository link to be added</b>
+  <b>Repository link to be added</b>
 </p>
 
 </td>
@@ -173,57 +180,85 @@ A task management application for organizing, managing and tracking daily activi
 
 ---
 
-<!-- INTERNSHIP -->
+<!-- PROFESSIONAL EXPERIENCE -->
 
-<h2 align="center">💼 INTERNSHIP EXPERIENCE</h2>
+<h2 align="center">💼 PROFESSIONAL EXPERIENCE</h2>
 
-<h3>🏢 National Small Industries Corporation Ltd. (NSIC)</h3>
+<table>
+<tr>
+<td>
 
-<p>
-  <b>Data Science Intern</b> | June 2023 – July 2023
-</p>
+### 🏢 National Small Industries Corporation Ltd. (NSIC)
 
-- 📊 Performed data analysis and visualization using Pandas, NumPy and Matplotlib.
-- 🧠 Applied feature selection techniques for predictive modeling.
-- ⚡ Optimized data analysis workflows, reducing analysis time from hours to minutes.
-- 📈 Improved reporting efficiency by 50%.
+**Data Science Intern** | June 2023 – July 2023
+
+- Developed data-driven applications using Pandas, NumPy, and Matplotlib for data analysis and visualization.
+- Applied feature selection techniques to improve predictive modeling.
+- Reduced data analysis time from hours to minutes.
+- Improved reporting efficiency by 50% through optimized analysis workflows.
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- CERTIFICATIONS & ACTIVITIES -->
+
+<h2 align="center">🏆 CERTIFICATIONS & ACTIVITIES</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📜 Certifications
+
+- Python Full Stack — AICTE, April 2025.
+- IBM Data Fundamentals — IBM SkillsBuild and Credly, October 2025.
+- Enhancing Soft Skills and Personality — NPTEL, May 2025.
+- Field Project in Data Science Using Python — NSIC, July 2023.
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Frost Hacks – MLH
+
+**Logistics Team | January 2024**
+
+- Contributed to organizing Frost Hacks at the Institute of Aeronautical Engineering.
+- Supported event logistics on January 20–21, 2024.
+- Received a Certificate of Achievement for outstanding event organization.
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- CERTIFICATIONS -->
-
-<h2 align="center">🏆 CERTIFICATIONS & ACHIEVEMENTS</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/IBM-Data%20Fundamentals-1261FE?style=for-the-badge&logo=ibm&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPTEL-Python%20Course-FF6F00?style=for-the-badge" />
-</p>
-
-- 📊 IBM Data Fundamentals – IBM SkillsBuild.
-- 🐍 Python Beginner Course – NPTEL.
-- 🚀 Frost Hacks – MLH Hackathon participation.
-
----
 
 <!-- GITHUB STATISTICS -->
 
-<h2 align="center">📊 GITHUB STATISTICS</h2>
+<h2 align="center">📊 GITHUB STATISTICS & CONTRIBUTION ACTIVITY</h2>
 
 <p align="center">
-  <a href="https://github.com/munikumar19">
-    <img width="48%"
-      src="https://ghstats.dev/api/card?username=munikumar19&theme=ocean"
-      alt="GitHub Statistics" />
-  </a>
-  <a href="https://github.com/munikumar19">
-    <img width="48%"
-      src="https://ghstats.dev/api/langs?username=munikumar19&theme=ocean&layout=donut"
-      alt="Most Used Languages" />
-  </a>
+  <img
+    src="https://img.shields.io/github/followers/munikumar19?label=FOLLOWERS&style=flat&color=087E8B&logo=github&labelColor=164E63"
+    alt="GitHub followers"
+  />
+  <img
+    src="https://img.shields.io/github/public-repos/munikumar19?label=PUBLIC%20REPOSITORIES&style=flat&color=075985&logo=github&labelColor=164E63"
+    alt="Public repositories"
+  />
+  <img
+    src="https://komarev.com/ghpvc/?username=munikumar19&label=PROFILE%20VIEWS&color=00A6A6&style=flat"
+    alt="Profile views"
+  />
 </p>
 
 
-<h2 align="center">🌐 CONTRIBUTION ACTIVITY</h2>
+<p align="center">
+  <i>Consistency, contributions and continuous learning.</i>
+</p>
 
 <p align="center">
   <picture>
@@ -237,33 +272,48 @@ A task management application for organizing, managing and tracking daily activi
     />
     <img
       src="https://raw.githubusercontent.com/munikumar19/munikumar19/output/github-snake.svg"
-      alt="GitHub Contribution Snake"
+      alt="GitHub Contribution Snake Animation"
       width="100%"
     />
   </picture>
 </p>
 
+<p align="center">
+  <a href="https://github.com/munikumar19">
+    <img
+      src="https://img.shields.io/badge/VIEW%20GITHUB%20PROFILE-087E8B?style=flat&logo=github&logoColor=white&labelColor=164E63"
+    />
+  </a>
+</p>
+
+
 ---
 
-<!-- CONNECT -->
+<!-- LET'S CONNECT -->
 
 <h2 align="center">🤝 LET'S CONNECT</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kmunikumar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-087E8B?style=flat&logo=linkedin&logoColor=white&labelColor=164E63"/>
   </a>
   <a href="https://github.com/munikumar19">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-087E8B?style=flat&logo=github&logoColor=white&labelColor=164E63"/>
   </a>
 </p>
 
-<h3 align="center">💡 LEARN • BUILD • INNOVATE • GROW</h3>
+<h3 align="center">🌊 LEARN • BUILD • CREATE • GROW</h3>
 
 <p align="center">
-  <i>Building projects, solving problems and learning something new every day.</i>
+  <i>Turning ideas into practical applications, one project at a time.</i>
 </p>
 
+<!-- FOOTER BANNER -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0072FF,50:00B4DB,100:1D976C" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:063B5C,35:075985,70:087E8B,100:22B8CF"
+    width="100%"
+    alt="Blue and teal footer"
+  />
 </p>

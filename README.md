@@ -256,9 +256,9 @@ A productivity application designed to manage focused work sessions and breaks u
     alt="GitHub followers"
   />
   <img
-    src="https://img.shields.io/github/public-repos/munikumar19?label=PUBLIC%20REPOSITORIES&style=flat&color=075985&logo=github&labelColor=164E63"
-    alt="Public repositories"
-  />
+  src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmunikumar19&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&style=flat&color=075985&logo=github&labelColor=164E63"
+  alt="Public repositories"
+/>
   <img
     src="https://komarev.com/ghpvc/?username=munikumar19&label=PROFILE%20VIEWS&color=00A6A6&style=flat"
     alt="Profile views"

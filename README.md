@@ -171,7 +171,17 @@ A productivity application designed to manage focused work sessions and breaks u
 - Persistent productivity settings.
 
 <p align="center">
-  <b>Repository link to be added</b>
+  <a href="https://github.com/munikumar19/pomodoro-timer">
+    <img src="https://img.shields.io/badge/VIEW%20SOURCE-087E8B?style=flat&logo=github&logoColor=white&labelColor=164E63"/>
+  </a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PROJECT%2002-087E8B?style=flat&labelColor=164E63"/>
 </p>
 
 </td>

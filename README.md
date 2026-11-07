@@ -22,6 +22,9 @@
   <a href="https://www.linkedin.com/in/kmunikumar/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-087E8B?style=flat&logo=linkedin&logoColor=white&labelColor=164E63"/>
   </a>
+  <a href="https://k-muni-kumar-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-087E8B?style=flat&logo=googlechrome&logoColor=white&labelColor=164E63" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
@@ -309,6 +312,9 @@ A productivity application designed to manage focused work sessions and breaks u
   </a>
   <a href="https://github.com/munikumar19">
     <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-087E8B?style=flat&logo=github&logoColor=white&labelColor=164E63"/>
+  </a>
+  <a href="https://k-muni-kumar-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-087E8B?style=flat&logo=googlechrome&logoColor=white&labelColor=164E63" alt="Portfolio"/>
   </a>
 </p>
 
